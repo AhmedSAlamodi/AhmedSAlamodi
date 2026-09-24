@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**AhmedSAlamodi/AhmedSAlamodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Computer Science and building things along the way.
 
-Here are some ideas to get you started:
+### 🌱 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- C
+- Git & GitHub
+
+> Learn. Build. Repeat.
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="mailto:Ahmedsalahalamodi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://x.com/AhmedSAlamodi_" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedsalamodi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
