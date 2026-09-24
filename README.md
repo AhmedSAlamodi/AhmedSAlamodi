@@ -19,7 +19,7 @@ I'm learning Computer Science and building things along the way.
   <a href="https://x.com/AhmedSAlamodi_" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://www.linkedin.com/in/ahmedsalamodi" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmedsalahalamodi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
