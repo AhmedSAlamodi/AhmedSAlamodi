@@ -31,6 +31,6 @@ to use AI as an assistant throughout the process.
 
 ### 🔗 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/ahmedsalamodi)
+- [LinkedIn](https://www.linkedin.com/in/ahmedsalahalamodi)
 - [X](https://x.com/AhmedSAlamodi_)
 - [Email](mailto:Ahmedsalahalamodi@gmail.com)
