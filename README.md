@@ -1,25 +1,36 @@
 # Hi, I'm Ahmed 👋
 
-I'm learning Computer Science and building things along the way.
+Incoming Computer Science student building my foundations in
+programming, software development, and Artificial Intelligence
+through self-directed learning.
 
-### 🌱 Currently learning
+### 💻 Programming
 
-- Python
-- C
+- Python — Fundamentals
+- C — Fundamentals
+- SQL — Basic Commands (SQLite3)
+
+### 🛠️ Skills & Tools
+
 - Git & GitHub
+- Visual Studio Code
+- Problem Solving
+- Self-Directed Learning
 
-> Learn. Build. Repeat.
+### 🤖 Exploring
+
+- Artificial Intelligence
+- Vibe Coding
+- Coding Agents
+
+I enjoy learning by building small projects, experimenting with
+new tools, and documenting my progress along the way.
+
+I'm working toward becoming a Software Engineer and learning how
+to use AI as an assistant throughout the process.
 
 ### 🔗 Connect with me
 
-<p align="left">
-  <a href="mailto:Ahmedsalahalamodi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://x.com/AhmedSAlamodi_" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmedsalahalamodi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/ahmedsalamodi)
+- [X](https://x.com/AhmedSAlamodi_)
+- [Email](mailto:Ahmedsalahalamodi@gmail.com)
